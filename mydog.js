@@ -14,7 +14,6 @@ function draw() {
   // sec third number is how wide the circle is 
   // fourth is how tall the circle is
   arc(910, 670, 200, 300, 14, PI + HALF_PI);
-  arc(910, 370, 200, 300, 14, PI + HALF_PI);
   fill("yellow");
     noFill();
 fill("yellow")
