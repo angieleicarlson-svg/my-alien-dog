@@ -39,5 +39,5 @@ fill("black")
   arc(172, 236.5, 50, 50, 0, PI + QUARTER_PI-0.21, OPEN); //upper eye
   arc(172, 312, 50, 50, HALF_PI+1.1, QUARTER_PI-0.89, OPEN); //lower eye
   noFill();
-  describe('A white rhombus with a black outline drawn on a gray canvas.');
+  
 }
